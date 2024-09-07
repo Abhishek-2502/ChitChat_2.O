@@ -2,12 +2,33 @@
 
 ChitChat2O is an AI-powered chatbot application built using Kotlin and the Gemini API. This app provides a seamless chat interface with the added capability for users to upload and share images during conversations.
 
+## Table of Contents
+
+- [Features](#features)
+- [Images](#images)
+- [Technologies Used](#technologies-used)
+- [Images](#images)
+- [Installation](#installation)
+- [License](#license)
+- [Author](#author)
+
+
 ## Features
 
 - **Interactive Chat Interface**: The app allows users to engage in a conversational experience with an AI chatbot.
 - **Image Upload**: Users can upload images directly from their device to share in the chat.
 - **Responsive Design**: The app's UI is designed to provide a smooth user experience, featuring a modern chat screen with support for text and media.
 - **Customizable Themes**: The app is built using Jetpack Compose with support for Material3 themes.
+
+## Images
+<p align="center">
+    <img src="Images/ss1_lightmode.jpg" height="600" width="300" alt="Error">
+    <img src="Images/ss2_lightmode.jpg" height="600" width="300" alt="Error">
+</p>
+<p align="center">
+    <img src="Images/ss1_darkmode.jpg" height="600" width="300" alt="Error">
+    <img src="Images/ss2_darkmode.jpg" height="600" width="300" alt="Error">
+</p>
 
 ## Technologies Used
 
@@ -33,9 +54,6 @@ ChitChat2O is an AI-powered chatbot application built using Kotlin and the Gemin
 2. Open the project in Android Studio.
 3. Build and run the app on your Android device or emulator.
 
-## Screenshots
-
-(Screenshots can be added here to showcase the app's UI)
 
 ## License
 
