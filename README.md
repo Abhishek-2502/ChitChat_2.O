@@ -7,7 +7,7 @@ ChitChat2O is an AI-powered chatbot application built using Kotlin and the Gemin
 - [Features](#features)
 - [Images](#images)
 - [Technologies Used](#technologies-used)
-- [Images](#images)
+- [How to Use](#how-to-use)
 - [Installation](#installation)
 - [License](#license)
 - [Author](#author)
