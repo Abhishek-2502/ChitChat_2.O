@@ -38,10 +38,20 @@ ChitChat2O is an AI-powered chatbot application built using Kotlin and the Gemin
 - **Coil**: For loading and displaying images efficiently.
 - **Coroutines**: To manage asynchronous tasks.
 
+
 ## How to Use
 
-1. **Send Text Messages**: Type your prompt in the input field and click on the "Send" button to interact with the AI.
-2. **Upload and Share Images**:
+1. **Set Up Your API Key**: 
+   - Obtain your API key by signing up on the [Gemini API website](https://www.geminiapi.com) and accessing your dashboard.
+   - Replace the placeholder API key in the app's configuration file with your own:
+     ```kotlin
+     const val GEMINI_API_KEY = "your-api-key-here"
+     ```
+   - Save the changes and rebuild the project.
+
+2. **Send Text Messages**: Type your prompt in the input field and click on the "Send" button to interact with the AI.
+
+3. **Upload and Share Images**:
    - Click on the "Add Photo" icon to pick an image from your device.
    - Once selected, the image will be displayed alongside your message.
 
